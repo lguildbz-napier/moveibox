@@ -31,23 +31,13 @@ TMDB API: Provides movie details and trailer information.
 
 Clone the repository:
 
-git clone https://github.com/lguildbz-napier/moviebox.git
+1. git clone https://github.com/lguildbz-napier/moviebox.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd moviebox-web-player
 
-Open index.html in a web browser.
-
-**Setup API Key**
-
-This project uses TMDB API. To enable full functionality:
-
-Register for an API key at TMDB.
-
-Replace the placeholder API key in script.js:
-
-const apiKey = 'YOUR_TMDB_API_KEY';
+3. Open index.html in a web browser.
 
 <h2>**File Structure**</h2>
 
