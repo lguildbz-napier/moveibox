@@ -49,7 +49,7 @@ Replace the placeholder API key in script.js:
 
 const apiKey = 'YOUR_TMDB_API_KEY';
 
-File Structure
+<h2>**File Structure**</h2>
 
 ├── index.html        # Main HTML file
 ├── style.css         # Stylesheet for UI
