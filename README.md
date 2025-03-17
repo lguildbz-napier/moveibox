@@ -1,4 +1,4 @@
-MovieBox Web Video Player
+<h1><center>MovieBox Web Video Player</center></h1>
 
 **Overview**
 
