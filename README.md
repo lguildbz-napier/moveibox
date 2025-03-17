@@ -44,16 +44,18 @@ Clone the repository:
 ├── index.html        # Main HTML file
 
 ├── style.css         # Stylesheet for UI
+
 ├── script.js         # JavaScript for dynamic content
+
 ├── README.md         # Project documentation
 
-**Usage**
+<h2>**Usage**</h2>
 
-Enter a movie title in the search bar and click "Search".
+1. Enter a movie title in the search bar and click "Search".
 
-Click on a movie thumbnail to view details and trailer.
+2. Click on a movie thumbnail to view details and trailer.
 
-Browse the popular movies section for recommendations.
+3. Browse the popular movies section for recommendations.
 
 **Screenshots**
 
