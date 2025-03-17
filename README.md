@@ -17,7 +17,7 @@ Embedded Trailer Player: Fetches and plays the official movie trailer.
 
 Popular Movies Carousel: Displays a scrollable list of popular movies.
 
-**Technologies Used**
+<h2>**Technologies Used**</h2>
 
 HTML5: Structuring the web application.
 
@@ -27,7 +27,7 @@ JavaScript (ES6): Fetching and displaying dynamic movie data.
 
 TMDB API: Provides movie details and trailer information.
 
-**Installation**
+<h2>**Installation**</h2>
 
 Clone the repository:
 
