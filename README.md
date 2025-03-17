@@ -41,13 +41,13 @@ Clone the repository:
 
 <h2>**File Structure**</h2>
 
-├── index.html        # Main HTML file
+    ├── index.html        # Main HTML file
 
-├── style.css         # Stylesheet for UI
+    ├── style.css         # Stylesheet for UI
 
-├── script.js         # JavaScript for dynamic content
+    ├── script.js         # JavaScript for dynamic content
 
-├── README.md         # Project documentation
+    ├── README.md         # Project documentation
 
 <h2>**Usage**</h2>
 
