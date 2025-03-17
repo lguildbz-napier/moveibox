@@ -1,10 +1,10 @@
 MovieBox Web Video Player
 
-Overview
+**Overview**
 
 MovieBox is a web-based video player that allows users to search for movies, view detailed information, watch trailers, and browse popular movies. It leverages The Movie Database (TMDB) API to fetch movie details dynamically.
 
-Features
+**Features**
 
 Movie Search: Users can search for movies using the search bar.
 
@@ -16,7 +16,7 @@ Embedded Trailer Player: Fetches and plays the official movie trailer.
 
 Popular Movies Carousel: Displays a scrollable list of popular movies.
 
-Technologies Used
+**Technologies Used**
 
 HTML5: Structuring the web application.
 
@@ -26,7 +26,7 @@ JavaScript (ES6): Fetching and displaying dynamic movie data.
 
 TMDB API: Provides movie details and trailer information.
 
-Installation
+**Installation**
 
 Clone the repository:
 
@@ -38,7 +38,7 @@ cd moviebox-web-player
 
 Open index.html in a web browser.
 
-Setup API Key
+**Setup API Key**
 
 This project uses TMDB API. To enable full functionality:
 
@@ -55,7 +55,7 @@ File Structure
 ├── script.js         # JavaScript for dynamic content
 ├── README.md         # Project documentation
 
-Usage
+**Usage**
 
 Enter a movie title in the search bar and click "Search".
 
@@ -63,11 +63,11 @@ Click on a movie thumbnail to view details and trailer.
 
 Browse the popular movies section for recommendations.
 
-Screenshots
+**Screenshots**
 
 
 
-Contributing
+**Contributing**
 
 Feel free to contribute by opening an issue or submitting a pull request.
 
