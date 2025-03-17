@@ -35,13 +35,14 @@ Clone the repository:
 
 2. Navigate to the project directory:
 
-cd moviebox-web-player
+    cd moviebox-web-player
 
 3. Open index.html in a web browser.
 
 <h2>**File Structure**</h2>
 
 ├── index.html        # Main HTML file
+
 ├── style.css         # Stylesheet for UI
 ├── script.js         # JavaScript for dynamic content
 ├── README.md         # Project documentation
