@@ -7,15 +7,16 @@ MovieBox is a web-based video player that allows users to search for movies, vie
 
 <h2>**Features**</h2>
 
-Movie Search: Users can search for movies using the search bar.
+<h3>Movie Search:</h3> Users can search for movies using the search bar.
 
-Dynamic Movie Information: Displays movie title, overview, release year, budget, genre, user score, and tagline.
+<h3>Dynamic Movie Information:</h3> Displays movie title, overview, release year, budget, genre, user score, and tagline.
 
-Top Actors Display: Shows top 8 actors with profile images.
+<h3>Top Actors Display:</h3> Shows top 8 actors with profile images.
 
-Embedded Trailer Player: Fetches and plays the official movie trailer.
+<h3>Embedded Trailer Player:</h3> Fetches and plays the official movie trailer.
 
-Popular Movies Carousel: Displays a scrollable list of popular movies.
+<h3>Popular Movies Carousel:</h3> Displays a scrollable list of popular movies.
+
 
 <h2>**Technologies Used**</h2>
 
