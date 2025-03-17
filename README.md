@@ -1,3 +1,4 @@
+<center><img src = "https://github.com/lguildbz-napier/moviebox/blob/main/image.png"</center>
 <h1><center>MovieBox Web Video Player</center></h1>
 
 <h2>**Overview**</h2>
