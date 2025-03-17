@@ -60,7 +60,7 @@ Clone the repository:
 **Screenshots**
 
 1. Open Main Page
-   <img src = "https://github.com/lguildbz-napier/moviebox/blob/main/screenshot1.jpg"
+   <img src = "https://github.com/lguildbz-napier/moviebox/blob/main/screenshot1.jpg">
    
 2. Enter the Name of a movie into the Search Box & Click the Search Red button.
 
