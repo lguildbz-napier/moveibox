@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MovieBox Web Video Player</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Main Container -->
+    <div class="container">
+        <!-- Section 2: MovieBox Logo and Search Bar (full width, top) -->
+        <div class="section section2">
+            <div class="header">
+                <img src="image.png" alt="MovieBox Logo" class="logo">
+                <div class="search-container">
+                    <input type="text" id="search-box" placeholder="Search for a movie...">
+                    <button id="search-button">Search</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Middle Container for Section 1 and Section 3 -->
+        <div class="middle-container">
+            <!-- Section 1: Movie Information (30% width, left side) -->
+            <div class="section section1">
+                <div id="movie-info">
+                    <h1 id="movie-title">Movie Title</h1>
+                    <p id="movie-overview">Movie overview will appear here.</p>
+                    <div class="movie-details">
+                        <p><strong><h1>Top 8 Actors:</h1></strong></p>
+                        <div id="movie-actors" class="actors-container">
+                            <!-- Actor thumbnails will be dynamically added here -->
+                        </div>
+                        <p><br></p>
+                        <h1 id="movie-details1">Movie Details</h1>
+                        <p><h3><strong>Release Year:</strong> <span id="movie-year">N/A</span></h3></p>
+                        <p><h3><strong>User Score: </strong><span id="movie-score">N/A </span></h3></p>
+                        <p><h3><strong>Budget:</strong> <span id="movie-budget">N/A</span></h3></p>
+                        <p><h3><strong>Genre:</strong> <span id="movie-genre">N/A</span></h3></p>
+                        <p><h3><strong>Homepage:</strong> <a href ><span id="movie-homepage">N/A</span> </h3></a></p>
+                        <p><i><h3> <span id="movie-tagline">N/A</span> </i> </h3></p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Section 3: Movie Trailer (70% width, right side) -->
+            <div class="section section3">
+                <iframe id="video-player" width="100%" height="100%" src="" frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <!-- Section 4: Popular Movies (full width, below Section 1 and Section 3) -->
+        <div class="section section4">
+            <h2 class="carousel-title">Popular Movies</h2>
+            <div id="carousel" class="carousel">
+                <!-- Movie thumbnails will be dynamically added here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
