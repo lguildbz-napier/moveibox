@@ -1,10 +1,10 @@
 <h1><center>MovieBox Web Video Player</center></h1>
 
-**Overview**
+<h2>**Overview**</h2>
 
 MovieBox is a web-based video player that allows users to search for movies, view detailed information, watch trailers, and browse popular movies. It leverages The Movie Database (TMDB) API to fetch movie details dynamically.
 
-**Features**
+<h2>**Features**</h2>
 
 Movie Search: Users can search for movies using the search bar.
 
