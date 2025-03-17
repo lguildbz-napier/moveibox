@@ -30,7 +30,7 @@ TMDB API: Provides movie details and trailer information.
 
 Clone the repository:
 
-git clone https://github.com/your-username/moviebox-web-player.git
+git clone https://github.com/lguildbz-napier/moviebox.git
 
 Navigate to the project directory:
 
